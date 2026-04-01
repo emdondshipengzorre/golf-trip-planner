@@ -1,0 +1,159 @@
+[
+  {
+    "city": "海口",
+    "course": "观澜湖·黑石场",
+    "title": "观澜湖3场套餐",
+    "source": "球场官网",
+    "type": "球场套餐",
+    "original_price": 4500,
+    "discount_price": 3600,
+    "savings": 900,
+    "description": "任选3个球场，含球童费，有效期30天",
+    "valid_until": "2026-06-30"
+  },
+  {
+    "city": "海口",
+    "title": "观澜湖温泉+球场联票",
+    "source": "美团",
+    "type": "联票",
+    "original_price": 1800,
+    "discount_price": 1380,
+    "savings": 420,
+    "description": "1场18洞 + 温泉不限时",
+    "valid_until": "2026-05-31"
+  },
+  {
+    "city": "海口",
+    "title": "海口万豪住2晚送1场球",
+    "source": "携程",
+    "type": "酒店套餐",
+    "original_price": 2600,
+    "discount_price": 2200,
+    "savings": 400,
+    "description": "万豪2晚含早 + 观澜湖1场18洞",
+    "valid_until": "2026-05-15"
+  },
+  {
+    "city": "海口",
+    "title": "早鸟优惠 - 7:00前开球",
+    "source": "球场官网",
+    "type": "早鸟折扣",
+    "original_price": 1200,
+    "discount_price": 840,
+    "savings": 360,
+    "description": "早7:00前开球享7折，限工作日",
+    "valid_until": "2026-12-31"
+  },
+  {
+    "city": "海口",
+    "title": "五一假期双人畅打套餐",
+    "source": "美团",
+    "type": "球场套餐",
+    "original_price": 3200,
+    "discount_price": 2560,
+    "savings": 640,
+    "description": "双人1场18洞，含球童+球车，五一期间有效",
+    "valid_until": "2026-05-05"
+  },
+  {
+    "city": "海口",
+    "course": "观澜湖·黑石场",
+    "title": "观澜湖会员日特惠",
+    "source": "球场公众号",
+    "type": "球场套餐",
+    "original_price": 1500,
+    "discount_price": 999,
+    "savings": 501,
+    "description": "每月第一个周三为会员日，18洞含球童球车，需提前预约",
+    "valid_until": "2026-12-31"
+  },
+  {
+    "city": "三亚",
+    "title": "神州半岛2场套餐",
+    "source": "球场官网",
+    "type": "球场套餐",
+    "original_price": 3000,
+    "discount_price": 2200,
+    "savings": 800,
+    "description": "喜来登场+东场各1轮，含球童",
+    "valid_until": "2026-06-30"
+  },
+  {
+    "city": "三亚",
+    "title": "南山国际高尔夫体验票",
+    "source": "美团",
+    "type": "球场套餐",
+    "original_price": 1500,
+    "discount_price": 1080,
+    "savings": 420,
+    "description": "18洞体验，含球车，新手友好",
+    "valid_until": "2026-05-31"
+  },
+  {
+    "city": "三亚",
+    "title": "三亚海棠湾住打套餐",
+    "source": "携程",
+    "type": "酒店套餐",
+    "original_price": 4500,
+    "discount_price": 3600,
+    "savings": 900,
+    "description": "万豪3晚含早 + 神州半岛1场球",
+    "valid_until": "2026-05-31"
+  },
+  {
+    "city": "昆明",
+    "title": "春城湖畔双场套餐",
+    "source": "球场官网",
+    "type": "球场套餐",
+    "original_price": 3000,
+    "discount_price": 2400,
+    "savings": 600,
+    "description": "湖景场+山景场各1场，含球童",
+    "valid_until": "2026-06-30"
+  },
+  {
+    "city": "昆明",
+    "title": "春城度假酒店住打套餐",
+    "source": "携程",
+    "type": "酒店套餐",
+    "original_price": 3500,
+    "discount_price": 2800,
+    "savings": 700,
+    "description": "2晚住宿 + 1场18洞 + 早餐",
+    "valid_until": "2026-05-31"
+  },
+  {
+    "city": "昆明",
+    "course": "春城湖畔·湖景场",
+    "title": "春城淡季畅打卡",
+    "source": "球场公众号",
+    "type": "球场套餐",
+    "original_price": 6000,
+    "discount_price": 4200,
+    "savings": 1800,
+    "description": "5次畅打卡，6-9月使用，不限球场，含球童",
+    "valid_until": "2026-09-30"
+  },
+  {
+    "city": "丽江",
+    "title": "玉龙雪山高尔夫畅打",
+    "source": "球场官网",
+    "type": "球场套餐",
+    "original_price": 1800,
+    "discount_price": 1350,
+    "savings": 450,
+    "description": "海拔3100m，世界最高球场之一，含球童球车",
+    "valid_until": "2026-06-30"
+  },
+  {
+    "city": "丽江",
+    "title": "丽江古城+雪山球场三日游",
+    "source": "携程",
+    "type": "酒店套餐",
+    "original_price": 4000,
+    "discount_price": 3200,
+    "savings": 800,
+    "description": "古城客栈2晚 + 玉龙雪山球场1场 + 蓝月谷门票",
+    "valid_until": "2026-05-31"
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "cities": [
+    {
+      "name": "北京",
+      "code": "BJS",
+      "airports": [
+        {"name": "首都国际机场", "iata": "PEK"},
+        {"name": "大兴国际机场", "iata": "PKX"}
+      ],
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    {
+      "name": "海口",
+      "code": "HAK",
+      "airports": [
+        {"name": "美兰国际机场", "iata": "HAK"}
+      ],
+      "lat": 20.0174,
+      "lng": 110.3492
+    },
+    {
+      "name": "三亚",
+      "code": "SYX",
+      "airports": [
+        {"name": "凤凰国际机场", "iata": "SYX"}
+      ],
+      "lat": 18.2528,
+      "lng": 109.5120
+    },
+    {
+      "name": "昆明",
+      "code": "KMG",
+      "airports": [
+        {"name": "长水国际机场", "iata": "KMG"}
+      ],
+      "lat": 25.0389,
+      "lng": 102.7183
+    },
+    {
+      "name": "丽江",
+      "code": "LJG",
+      "airports": [
+        {"name": "三义国际机场", "iata": "LJG"}
+      ],
+      "lat": 26.8721,
+      "lng": 100.2299
+    },
+    {
+      "name": "烟台",
+      "code": "YNT",
+      "airports": [
+        {"name": "蓬莱国际机场", "iata": "YNT"}
+      ],
+      "lat": 37.4638,
+      "lng": 121.4480
+    },
+    {
+      "name": "深圳",
+      "code": "SZX",
+      "airports": [
+        {"name": "宝安国际机场", "iata": "SZX"}
+      ],
+      "lat": 22.5431,
+      "lng": 114.0579
+    },
+    {
+      "name": "天津",
+      "code": "TSN",
+      "airports": [
+        {"name": "滨海国际机场", "iata": "TSN"}
+      ],
+      "lat": 39.0842,
+      "lng": 117.2010
+    },
+    {
+      "name": "秦皇岛",
+      "code": "SHP",
+      "airports": [
+        {"name": "北戴河机场", "iata": "SHP"}
+      ],
+      "lat": 39.9354,
+      "lng": 119.5977
+    }
+  ]
+}

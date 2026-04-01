@@ -1,0 +1,32 @@
+# 高尔夫旅行规划器配置
+
+# 爬虫设置
+scraper:
+  # 请求间隔（秒）
+  min_interval: 2.0
+  max_interval: 5.0
+  # 最大重试次数
+  max_retries: 3
+  # 请求超时（秒）
+  timeout: 15
+
+# 缓存 TTL（秒）
+cache:
+  flights: 14400      # 4 小时
+  hotels: 86400       # 24 小时
+  coupons: 43200      # 12 小时
+
+# 数据源开关
+data_sources:
+  flights:
+    ctrip_api: true       # 携程 H5 API
+    ctrip_browser: true   # 携程浏览器爬取（Playwright）
+    mock_fallback: true   # 模拟数据兜底
+  hotels:
+    mock_fallback: true   # Phase 3 替换
+  coupons:
+    mock_fallback: true   # Phase 4 替换
+
+# 日志级别
+logging:
+  level: INFO
